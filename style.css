@@ -4,7 +4,7 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: "Roboto Mono", monospace;
+  font-family: 'Roboto Mono', monospace;
 }
 section {
   background-color: rgb(56, 53, 55);
@@ -15,7 +15,7 @@ section {
   justify-content: space-between;
   align-items: center;
   background-color: #060b38;
-  color: #ddd;
+  color: pink;
 }
 .brand-title {
   font-size: 1.5rem;
